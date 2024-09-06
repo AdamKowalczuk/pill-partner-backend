@@ -1,0 +1,6 @@
+@PillPartnerAPI_HostAddress = http://localhost:5049
+
+GET {{PillPartnerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
